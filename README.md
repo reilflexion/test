@@ -1,4 +1,4 @@
-# ****  
+# **アプリタイトル**  
 
  - version 0.0  
 
@@ -12,7 +12,9 @@
 
 ***  
 
-# ****  
+# **かいはつかんきょう**  
+ - Ruby(version:xxxx)  
+ - Ruby on rails(version:xxx)  
 
 ***  
 
